@@ -7,6 +7,7 @@ This capstone project builds a regression to predict the
 - [Methods](#methods)
 - [Notebooks and Code](#notebooks-and-code)
 - [data](#data)
+- [Plots and graphics](#plots-and-graphics)
 
 ## Overview
 
@@ -28,10 +29,14 @@ This notrebook contains the code
 
 The data
 
-## regression.csv
+### regression.csv
 
 This
 
-## graphics
-![image](https://github.com/user-attachments/assets/aaa8d9ab-7bad-436b-aa45-ffe46cc13ae7)
+## Plots and graphics
+
+This graphics
+
+![image](https://github.com/user-attachments/assets/84651282-93a4-4e33-9d2c-a56c22b233af)
+
 
