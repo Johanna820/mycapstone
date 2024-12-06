@@ -6,7 +6,7 @@ This capstone project builds a regression to predict the
 - [Overview](#overview)
 - [Methods](#methods)
 - [Notebooks and Code](#notebooks-and-code)
-- [data](#data)
+- [Data](#data)
 - [Plots and graphics](#plots-and-graphics)
 
 ## Overview
