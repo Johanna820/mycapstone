@@ -2,10 +2,11 @@
 
 This capstone project builds a regression to predict the 
 
-## Table of content
-overview
-methods
-notebooks
+## Table of Contents
+- [Overview](#overview)
+- [Methods](#methods)
+- [Notebooks and Code](#notebooks-and-code)
+- [data](#data)
 
 ## Overview
 
@@ -15,7 +16,7 @@ Over the crouse of a week, scientists collected humidity reddings
 
 Scientists used a res
 
-## Notebooks
+## Notebooks and Code
 
 The following notebooks cotain analytical code.
 
